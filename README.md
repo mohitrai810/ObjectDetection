@@ -1,2 +1,2 @@
 # ObjectDetection
-Our object detection project is built using the COCO dataset, a widely-used benchmark for object detection and segmentation. Leveraging the power of the COCO dataset, we have developed a robust object detection system that accurately identifies and localizes objects within images or video streams. To facilitate working with the COCO dataset, we have utilized the pycocotools library, which provides convenient tools for accessing and manipulating the dataset's annotations and images. By leveraging this combination of the COCO dataset and pycocotools, our project aims to push the boundaries of object detection performance and contribute to advancements in computer vision research.
+ObjectDetection using pycocotools and COCO dataset
